@@ -1,0 +1,7 @@
+chronos-forecasting>=2.0
+torch
+pandas
+yfinance
+matplotlib
+transformers
+accelerate
